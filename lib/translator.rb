@@ -28,4 +28,3 @@ end	end
     "Sorry, that emoticon was not found"
   end
 end 	
-end
